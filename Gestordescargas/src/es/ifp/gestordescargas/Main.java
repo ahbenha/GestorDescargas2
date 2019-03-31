@@ -5,7 +5,7 @@ package es.ifp.gestordescargas;
  *
  * @author Santiago Faci
  */
-public class GestorDescargas 
+public class Main 
 {
 
     public static void main(String[] args) {
