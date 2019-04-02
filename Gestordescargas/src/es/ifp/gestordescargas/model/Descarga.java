@@ -4,6 +4,10 @@ import java.net.URL;
 
 public class Descarga 
 {
+
+    static void cancelado() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
 	private URL url;
 	private Estado estado;
 	
